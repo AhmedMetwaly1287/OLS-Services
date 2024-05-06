@@ -1,0 +1,22 @@
+version: "3.4"
+
+services:
+  userfrontend:
+    build: ./lib
+    container_name: librarian
+    ports:
+      - "3001:3000"
+    volumes:
+      - ./lib:/app
+
+      - /app/node_modules
+
+  libfrontend:
+    build: ./user
+    container_name: user
+    ports:
+      - "3002:3000"
+    volumes:
+      - ./user:/app
+
+      - /app/node_modules
