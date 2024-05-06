@@ -1,0 +1,26 @@
+version: '3.4'
+
+services:
+  archiveserv:
+    image: ${DOCKER_REGISTRY-}archiveserv
+    ports:
+      - 6004:8080
+    build:
+      context: ArchiveServ
+      dockerfile: Dockerfile
+    depends_on:
+      - archivedb
+
+  archivedb:
+     image: mysql:latest
+     ports:
+     - 3309:3306
+     environment:
+       MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+       MYSQL_DATABASE: olsarchive
+     volumes:
+       - adbdata:/var/lib/mysql
+       - ./_MySQL_Init_Script:/docker-entrypoint-initdb.d
+
+volumes:
+    adbdata:

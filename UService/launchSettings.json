@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "composeLaunchAction": "",
+      "composeLaunchServiceName": "userservice",
+      "composeLaunchUrl": "",
+      "serviceActions": {
+        "userservice": "StartDebugging",
+        "db": "StartWithoutDebugging"
+      }
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\bbservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|solutionrelative:bbservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFE74FB-D06D-4CED-B5F9-01235E9EE7EB}|docker-compose.dcproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CFE74FB-D06D-4CED-B5F9-01235E9EE7EB}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\bbservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|solutionrelative:bbservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFE74FB-D06D-4CED-B5F9-01235E9EE7EB}|docker-compose.dcproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9CFE74FB-D06D-4CED-B5F9-01235E9EE7EB}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\bbservice\\services\\borrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|solutionrelative:bbservice\\services\\borrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\bbservice\\controllers\\borrowedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|solutionrelative:bbservice\\controllers\\borrowedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\bbservice\\dto\\userborrowedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|solutionrelative:bbservice\\dto\\userborrowedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\bbservice\\dto\\adminborrowedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|solutionrelative:bbservice\\dto\\adminborrowedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\bbservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|solutionrelative:bbservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\bbservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|solutionrelative:bbservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\bbservice\\bbservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|solutionrelative:bbservice\\bbservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\bbservice\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|solutionrelative:bbservice\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFE74FB-D06D-4CED-B5F9-01235E9EE7EB}|docker-compose.dcproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CFE74FB-D06D-4CED-B5F9-01235E9EE7EB}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|c:\\users\\ahmed\\onedrive\\desktop\\bbservice\\bbservice\\repository\\borrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B8D8E9-075C-4E37-9CD3-0C004FECBA1C}|BBService\\BBService.csproj|solutionrelative:bbservice\\repository\\borrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowedBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Services\\BorrowedBookService.cs",
+              "RelativeDocumentMoniker": "BBService\\Services\\BorrowedBookService.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Services\\BorrowedBookService.cs",
+              "RelativeToolTip": "BBService\\Services\\BorrowedBookService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:36:23.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Program.cs",
+              "RelativeDocumentMoniker": "BBService\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Program.cs",
+              "RelativeToolTip": "BBService\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAawEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:07:44.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BBService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BBService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T19:35:29.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T22:46:54.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Dockerfile",
+              "RelativeDocumentMoniker": "BBService\\Dockerfile",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Dockerfile",
+              "RelativeToolTip": "BBService\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-02T19:35:12.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-02T22:47:03.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-02T19:35:19.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminBorrowedBookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\DTO\\AdminBorrowedBookDTO.cs",
+              "RelativeDocumentMoniker": "BBService\\DTO\\AdminBorrowedBookDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\DTO\\AdminBorrowedBookDTO.cs",
+              "RelativeToolTip": "BBService\\DTO\\AdminBorrowedBookDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:11:55.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserBorrowedBookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\DTO\\UserBorrowedBookDTO.cs",
+              "RelativeDocumentMoniker": "BBService\\DTO\\UserBorrowedBookDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\DTO\\UserBorrowedBookDTO.cs",
+              "RelativeToolTip": "BBService\\DTO\\UserBorrowedBookDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:34:48.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\appsettings.json",
+              "RelativeDocumentMoniker": "BBService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\appsettings.json",
+              "RelativeToolTip": "BBService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T19:40:00.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BBService.http",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\BBService.http",
+              "RelativeDocumentMoniker": "BBService\\BBService.http",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\BBService.http",
+              "RelativeToolTip": "BBService\\BBService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-02T19:36:43.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorrowedBookController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Controllers\\BorrowedBookController.cs",
+              "RelativeDocumentMoniker": "BBService\\Controllers\\BorrowedBookController.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Controllers\\BorrowedBookController.cs",
+              "RelativeToolTip": "BBService\\Controllers\\BorrowedBookController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwFsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:32:38.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BorrowedBook.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Models\\BorrowedBook.cs",
+              "RelativeDocumentMoniker": "BBService\\Models\\BorrowedBook.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Models\\BorrowedBook.cs",
+              "RelativeToolTip": "BBService\\Models\\BorrowedBook.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:50:27.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorrowedBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Repository\\BorrowedBookRepository.cs",
+              "RelativeDocumentMoniker": "BBService\\Repository\\BorrowedBookRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\BBService\\BBService\\Repository\\BorrowedBookRepository.cs",
+              "RelativeToolTip": "BBService\\Repository\\BorrowedBookRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwFYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:33:08.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

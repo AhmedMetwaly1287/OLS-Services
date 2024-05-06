@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F6E55C-B3F5-4AC6-AA15-D889E3A84F08}|docker-compose.dcproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7F6E55C-B3F5-4AC6-AA15-D889E3A84F08}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\controllers\\archivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\controllers\\archivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F6E55C-B3F5-4AC6-AA15-D889E3A84F08}|docker-compose.dcproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7F6E55C-B3F5-4AC6-AA15-D889E3A84F08}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\archiveserv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\archiveserv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\services\\archiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\services\\archiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\dto\\addarchivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\dto\\addarchivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\archiveserv.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\archiveserv.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\dto\\adminarchivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\dto\\adminarchivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\dto\\userarchivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\dto\\userarchivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\services\\iarchiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\services\\iarchiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\models\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\models\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F6E55C-B3F5-4AC6-AA15-D889E3A84F08}|docker-compose.dcproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7F6E55C-B3F5-4AC6-AA15-D889E3A84F08}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\repository\\archiverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\repository\\archiverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\repository\\iarchiverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\repository\\iarchiverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|c:\\users\\ahmed\\onedrive\\desktop\\archiveserv\\archiveserv\\helpers\\automapperhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F51F21-F58E-4F5F-A071-2EF9A8D798C6}|ArchiveServ\\ArchiveServ.csproj|solutionrelative:archiveserv\\helpers\\automapperhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Program.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Program.cs",
+              "RelativeToolTip": "ArchiveServ\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:25:34.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ArchiveServ\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ArchiveServ\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwBcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T15:15:44.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArchiveServ.http",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\ArchiveServ.http",
+              "RelativeDocumentMoniker": "ArchiveServ\\ArchiveServ.http",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\ArchiveServ.http",
+              "RelativeToolTip": "ArchiveServ\\ArchiveServ.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-03T15:15:22.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\appsettings.json",
+              "RelativeDocumentMoniker": "ArchiveServ\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\appsettings.json",
+              "RelativeToolTip": "ArchiveServ\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T16:19:02.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-03T14:18:19.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Dockerfile",
+              "RelativeDocumentMoniker": "ArchiveServ\\Dockerfile",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Dockerfile",
+              "RelativeToolTip": "ArchiveServ\\Dockerfile",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-05T15:05:06.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-03T14:18:13.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArchiveController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Controllers\\ArchiveController.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\Controllers\\ArchiveController.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Controllers\\ArchiveController.cs",
+              "RelativeToolTip": "ArchiveServ\\Controllers\\ArchiveController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:18:24.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserArchiveDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\DTO\\UserArchiveDTO.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\DTO\\UserArchiveDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\DTO\\UserArchiveDTO.cs",
+              "RelativeToolTip": "ArchiveServ\\DTO\\UserArchiveDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:05:14.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArchiveService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Services\\ArchiveService.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\Services\\ArchiveService.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Services\\ArchiveService.cs",
+              "RelativeToolTip": "ArchiveServ\\Services\\ArchiveService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAewBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:07:01.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArchiveServ.csproj",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\ArchiveServ.csproj",
+              "RelativeDocumentMoniker": "ArchiveServ\\ArchiveServ.csproj",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\ArchiveServ.csproj",
+              "RelativeToolTip": "ArchiveServ\\ArchiveServ.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T18:18:03.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddArchiveDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\DTO\\AddArchiveDTO.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\DTO\\AddArchiveDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\DTO\\AddArchiveDTO.cs",
+              "RelativeToolTip": "ArchiveServ\\DTO\\AddArchiveDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:05:51.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminArchiveDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\DTO\\AdminArchiveDTO.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\DTO\\AdminArchiveDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\DTO\\AdminArchiveDTO.cs",
+              "RelativeToolTip": "ArchiveServ\\DTO\\AdminArchiveDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:05:10.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ArchiveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Repository\\ArchiveRepository.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\Repository\\ArchiveRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Repository\\ArchiveRepository.cs",
+              "RelativeToolTip": "ArchiveServ\\Repository\\ArchiveRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:06:20.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Archive.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Models\\Archive.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\Models\\Archive.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Models\\Archive.cs",
+              "RelativeToolTip": "ArchiveServ\\Models\\Archive.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:06:04.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IArchiveService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Services\\IArchiveService.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\Services\\IArchiveService.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Services\\IArchiveService.cs",
+              "RelativeToolTip": "ArchiveServ\\Services\\IArchiveService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:07:09.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ArchiveServ\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:04:40.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T16:20:18.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IArchiveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Repository\\IArchiveRepository.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\Repository\\IArchiveRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Repository\\IArchiveRepository.cs",
+              "RelativeToolTip": "ArchiveServ\\Repository\\IArchiveRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:06:45.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AutoMapperHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Helpers\\AutoMapperHelper.cs",
+              "RelativeDocumentMoniker": "ArchiveServ\\Helpers\\AutoMapperHelper.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ArchiveServ\\ArchiveServ\\Helpers\\AutoMapperHelper.cs",
+              "RelativeToolTip": "ArchiveServ\\Helpers\\AutoMapperHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:05:21.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

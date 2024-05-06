@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d1VSfMRiOy1OVq86yaavfr7zD+Pmh4mJn9PkGCEDLLw=",
+  "Source": "BBService",
+  "BasePath": "_content/BBService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

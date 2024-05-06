@@ -1,0 +1,26 @@
+version: '3.4'
+
+services:
+  bbservice:
+    image: ${DOCKER_REGISTRY-}bbservice
+    ports:
+      - 6003:8080
+    build:
+      context: BBService
+      dockerfile: Dockerfile
+    depends_on:
+      - bbdb
+
+  bbdb:
+     image: mysql:latest
+     ports:
+     - 3308:3306
+     environment:
+       MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+       MYSQL_DATABASE: olsbb
+     volumes:
+       - bbdbdata:/var/lib/mysql
+       - ./_MySQL_Init_Script:/docker-entrypoint-initdb.d
+
+volumes:
+    bbdbdata:

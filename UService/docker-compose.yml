@@ -1,0 +1,26 @@
+version: "3.4"
+
+services:
+  db:
+    image: mysql:latest
+    environment:
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+      MYSQL_DATABASE: olsusers
+    volumes:
+      - dbdata:/var/lib/mysql
+      - ./_MySQL_Init_Script:/docker-entrypoint-initdb.d
+
+  userservice:
+    image: ${DOCKER_REGISTRY-}userservice
+    environment:
+        - connectionString="Server=db;port=3306;Userid=root;Password=;Database=olsusers;"
+    ports:
+        - 6001:8080
+    build:
+        context: UserService
+        dockerfile: Dockerfile
+    depends_on:
+        - db
+
+volumes:
+  dbdata:
